@@ -22,8 +22,6 @@ compile = (fileName) => {
   }
 };
 
-// compile('Token.sol');
-// compile('Crowdsale.sol');
 compile('TxRelay.sol');
 compile('MessageBox.sol');
 
